@@ -1,0 +1,924 @@
+2015-11-27 07:06:34 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/css/basic/css/basic.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 07:06:34 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/css/basic/basic_ie.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 07:16:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128511951.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 07:16:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512052.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 07:16:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512153.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 07:16:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512264.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 07:16:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/1421663264l.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 07:18:01 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128511951.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 07:18:02 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512052.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 07:18:02 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512153.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 07:18:02 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512264.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 07:18:02 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/1421663264l.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 08:00:02 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128511951.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 08:00:02 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512052.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 08:00:02 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512153.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 08:00:02 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512264.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 08:00:02 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/1421663264l.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:09:04 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128511951.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:09:04 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512264.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:09:04 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512153.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:09:04 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/1421663264l.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:09:04 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512052.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:09:15 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128511951.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:09:15 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512052.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:09:15 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512153.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:09:15 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512264.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:09:16 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/1421663264l.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:09:48 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128511951.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:09:48 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512052.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:09:48 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512153.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:09:48 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512264.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:09:48 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/1421663264l.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:10:18 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128511951.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:10:18 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512052.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:10:18 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512153.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:10:18 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512264.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:10:18 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/1421663264l.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:10:40 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128511951.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:10:40 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512052.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:10:40 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512153.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:10:40 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512264.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:10:40 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/1421663264l.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:10:47 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128511951.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:10:47 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512052.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:10:47 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512153.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:10:47 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512264.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:10:47 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/1421663264l.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:11:15 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128511951.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:11:15 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512052.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:11:15 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512153.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:11:15 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512264.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:11:15 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/1421663264l.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:11:21 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128511951.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:11:21 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512052.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:11:21 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512153.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:11:21 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512264.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:11:21 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/1421663264l.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:26:07 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128511951.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:26:08 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512052.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:26:08 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512264.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:26:08 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512153.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-27 10:26:08 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/1421663264l.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 13:15:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/css/basic/css/basic.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 13:15:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/css/basic/basic_ie.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 13:21:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/css/basic/css/basic.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 13:21:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/css/basic/basic_ie.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 13:23:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/css/basic/css/basic.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 13:23:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/css/basic/basic_ie.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 13:24:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/css/basic/basic_ie.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 13:24:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/css/basic/css/basic.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 13:24:44 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/1412023537576646_367819496688974_1851077215_n.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 13:24:44 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128511951.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 13:24:44 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512052.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 13:24:44 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512153.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 13:24:44 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512264.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 13:24:45 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/1421663264l.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 13:26:20 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128511951.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 13:26:21 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512264.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 13:26:21 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512153.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 13:26:21 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/1421663264l.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 13:26:21 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512052.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 13:42:30 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128511951.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 13:42:30 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/1421663264l.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 13:42:30 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512153.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 13:42:30 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512052.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 13:42:30 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512264.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 13:44:39 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128511951.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 13:44:39 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/14128512052.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 13:44:39 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /reservedappdashboard/img/profile/1421663264l.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 14:47:18 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'type' in 'field list'
+Request URL: /reservedappdashboard/Mobiles/credituserinfo?callback=jQuery11020414529382949695_1456843602607&user_id=359&credit_card=4111111111111111&cciv=100&expire_date=2036-03&_=1456843602608
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('INSERT INTO car...', Array)
+#2 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Model/Datasource/DboSource.php(665): DboSource->execute('INSERT INTO car...', Array, Array)
+#3 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Model/Datasource/DboSource.php(537): DboSource->fetchAll('INSERT INTO car...')
+#4 [internal function]: DboSource->query('INSERT INTO car...')
+#5 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Model/Model.php(3304): call_user_func_array(Array, Array)
+#6 /Applications/MAMP/htdocs/reservedappdashboard/app/Controller/MobilesController.php(604): Model->query('INSERT INTO car...')
+#7 /Applications/MAMP/htdocs/reservedappdashboard/app/Controller/MobilesController.php(485): MobilesController->creditcardtoken('359', Array, '')
+#8 [internal function]: MobilesController->credituserinfo()
+#9 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(MobilesController), Array)
+#10 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(MobilesController), Object(CakeRequest), Object(CakeResponse))
+#12 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2016-03-01 14:54:09 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'type' in 'field list'
+Request URL: /reservedappdashboard/Mobiles/credituserinfo?callback=jQuery110209241671692579985_1456844015513&user_id=360&credit_card=4111111111111111&cciv=100&expire_date=2032-03&_=1456844015514
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('INSERT INTO car...', Array)
+#2 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Model/Datasource/DboSource.php(665): DboSource->execute('INSERT INTO car...', Array, Array)
+#3 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Model/Datasource/DboSource.php(537): DboSource->fetchAll('INSERT INTO car...')
+#4 [internal function]: DboSource->query('INSERT INTO car...')
+#5 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Model/Model.php(3304): call_user_func_array(Array, Array)
+#6 /Applications/MAMP/htdocs/reservedappdashboard/app/Controller/MobilesController.php(604): Model->query('INSERT INTO car...')
+#7 /Applications/MAMP/htdocs/reservedappdashboard/app/Controller/MobilesController.php(485): MobilesController->creditcardtoken('360', Array, '')
+#8 [internal function]: MobilesController->credituserinfo()
+#9 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(MobilesController), Array)
+#10 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(MobilesController), Object(CakeRequest), Object(CakeResponse))
+#12 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2016-03-01 15:00:48 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'type' in 'field list'
+Request URL: /reservedappdashboard/Mobiles/credituserinfo?callback=jQuery1102043795077479444444_1456844414252&user_id=361&credit_card=4111111111111111&cciv=100&expire_date=2028-03&_=1456844414253
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('INSERT INTO car...', Array)
+#2 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Model/Datasource/DboSource.php(665): DboSource->execute('INSERT INTO car...', Array, Array)
+#3 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Model/Datasource/DboSource.php(537): DboSource->fetchAll('INSERT INTO car...')
+#4 [internal function]: DboSource->query('INSERT INTO car...')
+#5 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Model/Model.php(3304): call_user_func_array(Array, Array)
+#6 /Applications/MAMP/htdocs/reservedappdashboard/app/Controller/MobilesController.php(604): Model->query('INSERT INTO car...')
+#7 /Applications/MAMP/htdocs/reservedappdashboard/app/Controller/MobilesController.php(485): MobilesController->creditcardtoken('361', Array, '')
+#8 [internal function]: MobilesController->credituserinfo()
+#9 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(MobilesController), Array)
+#10 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(MobilesController), Object(CakeRequest), Object(CakeResponse))
+#12 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2016-03-01 15:01:22 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'type' in 'field list'
+Request URL: /reservedappdashboard/Mobiles/credituserinfo?callback=jQuery1102043795077479444444_1456844414252&user_id=361&credit_card=4111111111111111&cciv=100&expire_date=2028-03&_=1456844414253
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('INSERT INTO car...', Array)
+#2 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Model/Datasource/DboSource.php(665): DboSource->execute('INSERT INTO car...', Array, Array)
+#3 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Model/Datasource/DboSource.php(537): DboSource->fetchAll('INSERT INTO car...')
+#4 [internal function]: DboSource->query('INSERT INTO car...')
+#5 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Model/Model.php(3304): call_user_func_array(Array, Array)
+#6 /Applications/MAMP/htdocs/reservedappdashboard/app/Controller/MobilesController.php(604): Model->query('INSERT INTO car...')
+#7 /Applications/MAMP/htdocs/reservedappdashboard/app/Controller/MobilesController.php(485): MobilesController->creditcardtoken('361', Array, '')
+#8 [internal function]: MobilesController->credituserinfo()
+#9 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(MobilesController), Array)
+#10 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#11 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(MobilesController), Object(CakeRequest), Object(CakeResponse))
+#12 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2016-03-01 15:09:19 Error: [InvalidArgumentException] expected transaction id to be set
+Request URL: /reservedappdashboard/Mobiles/paymentbycreditcardtoken?callback=jQuery1102038278967910446227_1456844950199&total_amount=198&table_price_pre_authorization=2400&user_id=362&comments=Total+payment&amount=0&split_my_bill=false&booking_id=618&order_id=185&_=1456844950201
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/Vendor/braintree/Braintree/Transaction.php(465): Braintree_Transaction::_validateId(NULL)
+#1 /Applications/MAMP/htdocs/reservedappdashboard/app/Controller/MobilesController.php(3327): Braintree_Transaction::submitForSettlement(NULL, '198.00')
+#2 [internal function]: MobilesController->paymentbycreditcardtoken()
+#3 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(MobilesController), Array)
+#4 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#5 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(MobilesController), Object(CakeRequest), Object(CakeResponse))
+#6 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2016-03-01 15:11:44 Error: [InvalidArgumentException] expected transaction id to be set
+Request URL: /reservedappdashboard/Mobiles/paymentbycreditcardtoken?callback=jQuery110206471876685973257_1456845090992&total_amount=900&table_price_pre_authorization=1350&user_id=362&comments=Total+payment&amount=670&split_my_bill=false&booking_id=619&order_id=186&_=1456845090994
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/Vendor/braintree/Braintree/Transaction.php(465): Braintree_Transaction::_validateId(NULL)
+#1 /Applications/MAMP/htdocs/reservedappdashboard/app/Controller/MobilesController.php(3327): Braintree_Transaction::submitForSettlement(NULL, '900.00')
+#2 [internal function]: MobilesController->paymentbycreditcardtoken()
+#3 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(MobilesController), Array)
+#4 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#5 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(MobilesController), Object(CakeRequest), Object(CakeResponse))
+#6 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2016-03-01 15:14:40 Error: [InvalidArgumentException] expected transaction id to be set
+Request URL: /reservedappdashboard/Mobiles/paymentbycreditcardtoken?callback=jQuery110206471876685973257_1456845090992&total_amount=900&table_price_pre_authorization=1350&user_id=362&comments=Total+payment&amount=670&split_my_bill=false&booking_id=619&order_id=186&_=1456845090994
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/Vendor/braintree/Braintree/Transaction.php(465): Braintree_Transaction::_validateId(NULL)
+#1 /Applications/MAMP/htdocs/reservedappdashboard/app/Controller/MobilesController.php(3327): Braintree_Transaction::submitForSettlement(NULL, '1800.00')
+#2 [internal function]: MobilesController->paymentbycreditcardtoken()
+#3 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(MobilesController), Array)
+#4 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#5 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(MobilesController), Object(CakeRequest), Object(CakeResponse))
+#6 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2016-03-01 15:26:23 Error: [InvalidArgumentException] expected transaction id to be set
+Request URL: /reservedappdashboard/Mobiles/paymentbycreditcardtoken?callback=jQuery110206997077465057373_1456845973288&total_amount=908&table_price_pre_authorization=1500&user_id=363&comments=Total+payment&amount=666&split_my_bill=false&booking_id=4&order_id=1&_=1456845973290
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/Vendor/braintree/Braintree/Transaction.php(465): Braintree_Transaction::_validateId(NULL)
+#1 /Applications/MAMP/htdocs/reservedappdashboard/app/Controller/MobilesController.php(3327): Braintree_Transaction::submitForSettlement(NULL, '908.00')
+#2 [internal function]: MobilesController->paymentbycreditcardtoken()
+#3 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(MobilesController), Array)
+#4 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#5 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(MobilesController), Object(CakeRequest), Object(CakeResponse))
+#6 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2016-03-01 15:26:39 Error: [InvalidArgumentException] expected transaction id to be set
+Request URL: /reservedappdashboard/Mobiles/paymentbycreditcardtoken?callback=jQuery110206997077465057373_1456845973288&total_amount=908&table_price_pre_authorization=1500&user_id=363&comments=Total+payment&amount=666&split_my_bill=false&booking_id=4&order_id=1&_=1456845973290
+Stack Trace:
+#0 /Applications/MAMP/htdocs/reservedappdashboard/app/Vendor/braintree/Braintree/Transaction.php(465): Braintree_Transaction::_validateId(NULL)
+#1 /Applications/MAMP/htdocs/reservedappdashboard/app/Controller/MobilesController.php(3327): Braintree_Transaction::submitForSettlement(NULL, '1816.00')
+#2 [internal function]: MobilesController->paymentbycreditcardtoken()
+#3 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(MobilesController), Array)
+#4 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#5 /Applications/MAMP/htdocs/reservedappdashboard/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(MobilesController), Object(CakeRequest), Object(CakeResponse))
+#6 /Applications/MAMP/htdocs/reservedappdashboard/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}

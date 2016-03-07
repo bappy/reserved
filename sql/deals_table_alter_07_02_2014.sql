@@ -1,0 +1,1 @@
+ALTER TABLE `deals` CHANGE `deal_amount` `deal_price` FLOAT( 10, 2 ) NULL DEFAULT NULL 

@@ -1,0 +1,1 @@
+ALTER TABLE `bookings` CHANGE `status` `status` ENUM( 'cancelled', 'check_in', 'pending', 'available', 'reserved', 'taken' ) CHARACTER SET latin1 COLLATE latin1_swedish_ci NULL DEFAULT 'available'

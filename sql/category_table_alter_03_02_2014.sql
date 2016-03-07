@@ -1,0 +1,1 @@
+ALTER TABLE `categories` ADD `status` `status` ENUM( 'active', 'inactive' ) CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL DEFAULT 'active'

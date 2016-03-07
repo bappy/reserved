@@ -1,0 +1,555 @@
+body{ font-size:18px;}
+.topNav .nav > li {line-height: 20px;}
+.btn, .popover, textarea, .pagination ul, .dropdown-menu, .thumbnails-borderless a.thumbnail, .thumbnails-borderless a.thumbnail:hover, .thumbnails-borderless a.thumbnail:focus, a.thumbnail-borderless:hover, a.thumbnail-borderless:focus, a.thumbnail-borderless, .navbar .navbar-inner, .navbar-inverse .navbar-inner, .navbar-inverse .nav > li > a:hover, .navbar-inverse .nav > li > a:active, .navbar-inverse .nav > li > a:focus, .navbar-inverse .nav > .active > a, .navbar-inverse .nav > .active > a:hover, .navbar-inverse .nav > .active > a:focus, .navbar-inverse .nav li.dropdown.open > .dropdown-toggle, .navbar-inverse .nav li.dropdown.active > .dropdown-toggle, .navbar-inverse .nav li.dropdown.open.active > .dropdown-toggle, .navbar .nav > li > a:hover, .navbar .nav > li > a:active, .navbar .nav > li > a:focus, .navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus, .navbar .nav li.dropdown.open > .dropdown-toggle, .navbar .nav li.dropdown.active > .dropdown-toggle, .navbar .nav li.dropdown.open.active > .dropdown-toggle, .modal-footer, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .uneditable-input, textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="date"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, input[type="number"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="color"]:focus, .uneditable-input:focus, input:focus:invalid:focus, textarea:focus:invalid:focus, select:focus:invalid:focus  {
+    font-family: "Breuer Condensed Medium";
+}
+label {
+    font-family: "Breuer Condensed Medium";
+    font-size: 18px;
+}
+.clear {
+    width:100%;
+    margin:0;
+    padding:0;
+    font-size:0;
+    line-height:0;
+    clear:both;
+}
+#page-sidebar-left {
+    width:15%;
+    float:left;
+    min-height:700px;
+}
+#page-content-right {
+    float:left;
+    width:85%;
+    background:#fefefe;
+    min-height:700px;
+}
+.club_table tbody tr:hover{cursor: pointer;}
+.lightFint {
+   font-family: "Breuer Condensed Medium";
+}
+#page-sidebar-left .topNav, #page-content-right .topNav {
+    width:100%;
+    display:block;
+
+    background: rgb(61,61,61); /* Old browsers */
+    background: -moz-linear-gradient(top,  rgba(61,61,61,1) 0%, rgba(86,86,86,1) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(61,61,61,1)), color-stop(100%,rgba(86,86,86,1))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  rgba(61,61,61,1) 0%,rgba(86,86,86,1) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  rgba(61,61,61,1) 0%,rgba(86,86,86,1) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  rgba(61,61,61,1) 0%,rgba(86,86,86,1) 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  rgba(61,61,61,1) 0%,rgba(86,86,86,1) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3d3d3d', endColorstr='#565656',GradientType=0 ); /* IE6-9 */
+
+}
+.topNav .nav {
+    margin-bottom:0;
+}
+
+#page-content-right .topNav .dropdown.user .dropdown-menu {
+    left:auto;
+    right:0;
+}
+#page-content-right .topNav .nav {
+    float:right;
+}
+
+.topNav .nav > li {
+    float:left;
+}
+.topNav .nav > li.dropdown-toggle {}
+.topNav .nav > li.dropdown-toggle ul li {
+    width:100%;
+}
+.topNav .nav > li.dropdown-toggle ul li a {
+    background:#ddd;
+}
+.topNav .nav > li > a {
+    background:none;
+    text-align:center;
+    padding:6px 40px 8px;
+    color:#fff;
+    border-left:1px #666 solid;
+    box-shadow:1px 0px 0px #999;
+    font-family: "Breuer Condensed Medium";
+}
+.topNav .nav > li > a:hover, .topNav .nav > li > a.active {
+    background-image: -webkit-gradient(
+        linear,
+        left top,
+        left bottom,
+        color-stop(0, #0064C7),
+        color-stop(1, #0053A6)
+        );
+    background-image: -o-linear-gradient(bottom, #0064C7 0%, #0053A6 100%);
+    background-image: -moz-linear-gradient(bottom, #0064C7 0%, #0053A6 100%);
+    background-image: -webkit-linear-gradient(bottom, #0064C7 0%, #0053A6 100%);
+    background-image: -ms-linear-gradient(bottom, #0064C7 0%, #0053A6 100%);
+    background-image: linear-gradient(to bottom, #0064C7 0%, #0053A6 100%);
+}
+#page-sidebar-left .topNav .nav > li {
+    border:none;
+    width:100%;
+}
+#page-sidebar-left .topNav .nav > li > a {
+    padding-left:0;
+    padding-right:0;
+    padding-bottom: 8px;
+    width:100%;
+}
+#page-content-right .topNav .nav > li.user > a.dropdown-toggle {
+    padding:6px 10px;
+}
+.page-title {
+    min-height:60px;
+    clear:both;
+    overflow:hidden;
+    background:#ddd;
+    border-left: 1px solid #BBBBBB;
+}
+.page-title h2 {
+    font-size: 20px;
+    line-height: 20px;
+    margin-bottom: 0;
+    margin-left: 6px;
+    margin-top: 20px;
+    display:inline-block;
+    font-family: "Breuer Condensed Medium";
+}
+.page-title span {
+    margin-top:0px;
+    margin-left:6px;
+    font-size:12px;
+    line-height:14px;
+    font-family: "Breuer Condensed Medium";
+}
+.page-title h2 small {margin:0 10px;}
+.page-title .pull-right {
+    margin-top:12px;
+}
+/******************** DASH BOARD *****************/
+
+.basickInfirmation {
+    background: #efefef;
+}
+.basickInfirmation h1, .basickInfirmation h2, .basickInfirmation h3, .basickInfirmation h4, .basickInfirmation h5, .basickInfirmation h6 {
+    margin-top:0;
+    margin-bottom:0;
+    /*margin-left:10px;*/
+    line-height:30px;
+    text-transform:uppercase;
+}
+/********************SIGN UP *****************/
+.well.well-white {
+    background-color:#FFF;
+}
+.panel.registration {
+
+}
+.panel.registration .panel-heading {
+    border:1px #ccc solid;
+    border-top-left-radius:4px;
+    border-top-right-radius:4px;
+}
+.panel.registration .panel-body {
+    border:1px #ccc solid;
+    border-top:0px solid;
+}
+.panel.registration .panel-heading input, .panel.registration .panel-body textarea {
+    border:none;
+}
+form.login {
+    border-right:1px #ccc dotted;
+}
+.registration-frm .form-group, .login .form-group {
+    margin-bottom:10px;
+    overflow:hidden;
+}
+.registration-frm .form-group label, .login .form-group label {
+    min-height:20px;
+    font-family: "Breuer Condensed Medium";
+    font-size:18px;
+}
+/******************** CLUB SETTINGs *****************/
+.rignt-contain-all {
+    margin:10px;
+}
+.form-group {
+    margin-bottom:10px;
+}
+.form-group label[class*="span"] {
+    min-height:20px;
+}
+.dayOpen td {
+    padding-top:4px;
+    padding-bottom:4px;
+}
+.alert-gry {
+    background:#666;
+    padding:2px 8px;
+    color:#eee;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    border-radius: 12px;
+
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+.gallery .item {
+    position:relative;
+}
+.gallery .item .gallery-profile-link {
+    display:none;
+    position:absolute;
+    top:10px;
+    left:50%;
+    font-size:12px;
+    color:#FF0;
+    margin-left:-35px;
+    text-align:center;
+    font-size:16px;
+    font-family: "Breuer Condensed Medium";
+}
+.gallery .item:hover .gallery-profile-link {
+    display:block;
+}
+.gallery .item .gallery-profile-delet {
+    display:none;
+    position:absolute;
+    top:50%;
+    margin-top:-10px;
+    left:50%;
+    font-size:12px;
+    color:#f00;
+    margin-left:-10px;
+    text-align:center;
+    font-size:16px;
+}
+.gallery .item:hover .gallery-profile-delet {
+    display:block;
+}
+.table-bordered.gry {
+    border:1px #CCCCCC solid;
+}
+.table-bordered.gry td {
+    padding-top:2px;
+    padding-bottom:2px;
+}
+.rignt-contain-forms {
+    float:left;
+    width:700px;
+    margin-right:2%;
+}
+.rignt-contain-phons {
+    float:left;
+    width:32%;
+    margin-right:2%;
+}
+.phoneView {
+    width:203px;
+    height:375px;
+    padding-top:85px;
+    padding-bottom:40px;
+    padding-left:18px;
+    padding-right:20px;
+    background:url(../img/iPone.png) no-repeat;
+}
+.btn-bar {
+    width:100%;
+    overflow:hidden;
+    width:100%;
+    background: #232323;
+}
+a.btn.btnBack {
+    margin:0;
+    float:left;
+    padding:10px 10px;
+    border:none;
+    border-right:1px #555 solid;
+    background: rgba(20,19,20,1);
+    background: -moz-linear-gradient(-45deg, rgba(20,19,20,1) 0%, rgba(35,32,35,1) 100%);
+    background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(20,19,20,1)), color-stop(100%, rgba(35,32,35,1)));
+    background: -webkit-linear-gradient(-45deg, rgba(20,19,20,1) 0%, rgba(35,32,35,1) 100%);
+    background: -o-linear-gradient(-45deg, rgba(20,19,20,1) 0%, rgba(35,32,35,1) 100%);
+    background: -ms-linear-gradient(-45deg, rgba(20,19,20,1) 0%, rgba(35,32,35,1) 100%);
+    background: linear-gradient(135deg, rgba(20,19,20,1) 0%, rgba(35,32,35,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#141314', endColorstr='#232023', GradientType=1 );
+}
+h1.btnTitle {
+    float:left;
+    clear:right;
+    line-height:28px;
+    margin:0;
+    padding:0;
+}
+h1.btnTitle a {
+    margin:0;
+    padding-left:10px;
+    color:#ac9f74;
+    font-size:18px;
+    text-transform:uppercase;
+    font-family: "Breuer Condensed Medium";
+}
+ul.venueSettingsInputs {
+    margin:0;
+    padding:0;
+}
+ul.venueSettingsInputs li {
+    float:left;
+    list-style:none;
+    margin-right:20px;
+    max-width:115px;
+}
+ul.venueSettingsInputs li label {
+    height:36px;
+}
+ul.venueSettingsInputs li .has-switch label {
+    height:auto;
+}
+ul.venueSettingsInputs li:first-child {
+    max-width:300px;
+}
+
+.phoneView {}
+.phoneView .phoneBanner {text-align: center;}
+.phoneBannerCaps h3 {
+    color:#a5a5a5;
+    font-size:12px;
+    line-height:12px;
+    padding:10px 10px;
+    text-align:center;
+    font-weight:normal;
+    margin:0;
+    font-family: "Breuer Condensed Medium";
+    border-bottom:1px #000 solid;
+}
+.phoneDateCaps h3 {
+    color:#a5a5a5;
+    font-size:12px;
+    line-height:12px;
+    padding:10px 10px;
+    text-align:center;
+    font-weight:normal;
+    margin:0;
+    font-family: "Breuer Condensed Medium";
+}
+.phoneDateBar {}
+.phoneDateBar ul {
+    margin:0 auto;
+    display:table;
+    padding:0;
+}
+.phoneDateBar ul li {
+    display:inline;
+    list-style:none;
+    text-align:center;
+    border-right:1px #000 solid;
+    padding:4px 20px;
+    float:left;
+}
+.phoneDateBar ul li:last-child {
+    border-right:0px #000 solid;
+}
+.phoneDateBar li h2 {
+    font-size:10px;
+    line-height:normal;
+    color:#a5a5a5;
+    margin:0;
+    text-align:center;
+    font-weight:normal;
+    font-family: "Breuer Condensed Medium";
+}
+.phoneDateBar li h1 {
+    font-size:11px;
+    text-align:center;
+    line-height:normal;
+    color:#fff;
+    margin:0;
+    font-family: "Breuer Condensed Medium";
+}
+.phoneBtn {
+    margin-top:20px;
+}
+.phoneBtn a {
+    background:#000;
+    color:#ac9f74;
+    margin:0 auto;
+    max-width:80%;
+    font-family: "Breuer Condensed Medium";
+}
+/******************** ADMIN ACCOUNT *****************/
+.addRightSit {
+    color:#333;
+    font-weight:bold;
+}
+label.checkbox input[type="checkbox"] {
+    margin-top: 4px;
+}
+
+/****************************************************/
+.table.taxAmmount thead th, .table.taxAmmount tbody td {
+    text-align:center;
+}
+
+/*=-=-=-=-added by faysal=-=-=-=-=-=-*/
+
+.errormsg{
+    padding: 15px;
+    background-color: #F2DEDE;
+}
+.form-group .span3{
+    min-width: 100px;
+}
+
+.venueSettingsInputs.last{
+    float: left;
+    clear: both;
+}
+
+/*Modal styles goes here--asif--*/
+
+.modal {
+    border: 1px solid #939393 !important;
+    border-radius: 10px !important;
+}
+button.close {
+    opacity: 1;
+    position: absolute;
+    right: -7px;
+    top: -10px;
+    z-index: 9999;
+}
+
+.mCarousal{
+    border: none !important;
+    padding: 0 !important;
+}
+.box {
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+    min-height: 75px;
+    text-align: center;
+}
+.mTitle {
+    line-height: normal;
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+}
+
+.box > span {
+    border-bottom: 1px solid #CCCCCC;
+    border-top: 1px solid #5D5D5D;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.2) inset;
+    display: block;
+    font-weight: bold;
+}
+.box > h2 {
+    font-size: 45px;
+    font-weight: bold;
+    line-height: normal;
+    margin: 0;
+    padding:2px 0;
+}
+.box.full{
+    margin-top: 20px;
+}
+.box.full > h2 {
+    font-size: 34px;
+    padding: 0;
+}
+#myCarousel .item{
+    text-align: center;
+}
+#myCarousel .item > img{
+    display: inline;
+}
+.mBtn {
+    border-radius: 4px;
+    color: #FFFFFF;
+    display: block;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    background: #fca83e; /* Old browsers */
+    background: -moz-linear-gradient(top, #fca83e 0%, #fe8b17 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fca83e), color-stop(100%,#fe8b17)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #fca83e 0%,#fe8b17 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #fca83e 0%,#fe8b17 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #fca83e 0%,#fe8b17 100%); /* IE10+ */
+    background: linear-gradient(to bottom, #fca83e 0%,#fe8b17 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fca83e', endColorstr='#fe8b17',GradientType=0 ); /* IE6-9 */
+    margin-bottom: 15px;
+}
+.mBtn.deep{
+    background: rgb(254,127,71); /* Old browsers */
+    background: -moz-linear-gradient(top, rgba(254,127,71,1) 0%, rgba(254,96,23,1) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(254,127,71,1)), color-stop(100%,rgba(254,96,23,1))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, rgba(254,127,71,1) 0%,rgba(254,96,23,1) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, rgba(254,127,71,1) 0%,rgba(254,96,23,1) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, rgba(254,127,71,1) 0%,rgba(254,96,23,1) 100%); /* IE10+ */
+    background: linear-gradient(to bottom, rgba(254,127,71,1) 0%,rgba(254,96,23,1) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fe7f47', endColorstr='#fe6017',GradientType=0 ); /* IE6-9 */
+}
+.noteTxt{
+    line-height: 20px;
+    margin:0px;
+    text-align: center;
+}
+#detailsContainerPopup{
+    height: auto !important;
+}
+/*------menu and other styles----*/
+
+/*-----date range picker styles goes here(aa)---*/
+#datepicker {
+    float: left;
+}
+#datepicker1 {
+    float: left;
+    margin: 1px 0 0 20px
+}
+.submit .btn {
+    margin: 2px 0 0 20px;
+    float: left;
+}
+.export {
+/*    display: block;
+    float: right;
+    margin: -42px 40px 0 0;*/
+}
+.ui-datepicker table {
+    font-size: 14px !important;
+ }
+.ui-datepicker td span, .ui-datepicker td a {
+    padding: 3px !important;
+    text-align: center !important;
+  }
+.ui-datepicker {
+    padding: 5px !important;
+    width: auto !important;
+}
+.ui-datepicker .ui-datepicker-title {
+    line-height: normal !important;
+  }
+.ui-widget {
+    font-size: 14px !important;
+}
+.ui-datepicker .ui-datepicker-prev, .ui-datepicker .ui-datepicker-next {
+    height: 20px !important;
+    top: 1px !important;
+    width: 20px !important;
+}
+#page-content-right, .block  {
+    background:#E0E9EF !important;
+}
+.table-bordered thead th {
+    background-color: #FFFFFF !important;
+    color: #333333 !important;
+}
+.table.table-bordered.table-hover {
+    background:#FFFFFF !important;
+    border: 1px solid #D7DBDF !important;
+}

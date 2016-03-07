@@ -1,0 +1,39 @@
+.prof
+{
+    color: green;
+    position: relative;
+    left: -101px;
+    font-weight: bold;
+    font-size: 13px;
+}
+.del_profile_photo
+{
+    position: relative;
+    left: -120px;
+    top:-40px;
+
+}
+
+.profselected
+{
+    color: green;
+    position: relative;
+    left: -101px;
+    font-weight: bold;
+    font-size: 13px;
+    text-decoration:none;
+}
+
+img.loading {
+     opacity:0.9;
+    filter:alpha(opacity=60)
+    background-position:  center center;
+    background-repeat: no-repeat;
+
+    z-index:100;
+    position: absolute;
+    width:100%;
+    height:auto;
+    background: transparent;
+
+}

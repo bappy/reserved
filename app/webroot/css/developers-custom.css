@@ -1,0 +1,129 @@
+/* 
+* This is Custom CSS file for developer.
+* Write your custom CSS here instead of overwritng core CSS.
+*/
+#primary-nav li span {
+    display:none;
+}
+i.icon-list-ul, i.icon-list-ul:before {
+    /*content: " ";
+    display:none;*/
+}
+
+nav#primary-nav h4 {
+    background: none repeat scroll 0 0 #444444;
+    color: #EEEEEE;
+    margin: 0;
+    padding: 4px 0 4px 10px;
+    font-family:"Breuer Condensed Light",Helvetica,Arial,sans-serif;
+	font-weight:normal;
+}
+#CategoryIndexForm {
+    margin-bottom: 0;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+input.input_bottle_category{
+    width:120px;
+}
+#primary-nav li a i.pull-right {
+    margin-right: 0;
+    margin-top: 2px;
+}
+#primary-nav li > ul li {
+    border-bottom: 1px solid #999999
+}
+#primary-nav li > ul li {
+    clear: both;
+    overflow: hidden;
+}
+#primary-nav li > ul a.bottle_category_name {
+    width:110px;
+    float: left;
+}
+#primary-nav li > ul a.bottle_category_delete {
+    float: left;
+    padding-left: 5px;
+    width: 20px;
+}
+#primary-nav li a img.club_acc_seting {
+    float: right;
+    margin-right: 10px;
+}
+.table-bordered thead th a.order_sort{
+    color:#FFFFFF;
+}
+div#reservation_detail_Popup {
+    background-color: #FFFFFF;
+    border: 1px solid #024690;
+    display: none;
+    height: 200px;
+    left: 75px;
+    position:absolute;
+    top: 220px;
+    width: 350px;
+    z-index: 9;
+}
+div.client_picture{
+    float: left;
+    width: 150px;
+}
+div.reservation_info{
+    float:right;
+    clear:right;
+}
+div.guys_number{
+    float:left;
+}
+div.girls_number{
+    float:right;
+}
+.del_profile_photo {
+    left: 81px;
+    position: absolute;
+    top: -2px;
+}
+.span3.item{
+    position:relative;
+	height:90px;
+}
+.page-title h2,body,.topNav .nav > li > a,#primary-nav li a,label{
+   
+}
+.prof,.profselected {
+    display:block;
+    left:10px;
+    top:-40px;
+}
+.btn{
+   /* font-size:11px;  */ 
+}
+label.upsell_radio_label,label.recur_radio_label,label.deal_status_radio_label{
+    float:left;
+    padding-right: 10px;
+    padding-left: 5px;
+}
+input.upsell_radio_input,input.recur_radio_input,input.deal_status_radio_input{
+    float:left;
+    padding-right: 10px;
+}
+div.login-forget-password{
+    padding-left:20px;
+}
+div.login-forget-password h5{
+    width:200px;
+}
+.glyph_club_name{
+   font-style: normal; 
+   font-size: 12px;
+   background: rgb(61,61,61); /* Old browsers */
+    background: -moz-linear-gradient(top,  rgba(61,61,61,1) 0%, rgba(86,86,86,1) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(61,61,61,1)), color-stop(100%,rgba(86,86,86,1))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  rgba(61,61,61,1) 0%,rgba(86,86,86,1) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  rgba(61,61,61,1) 0%,rgba(86,86,86,1) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  rgba(61,61,61,1) 0%,rgba(86,86,86,1) 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  rgba(61,61,61,1) 0%,rgba(86,86,86,1) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3d3d3d', endColorstr='#565656',GradientType=0 ); /* IE6-9 */
+color:#fff;
+padding: 2px 5px;
+}

@@ -1,0 +1,87 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face {
+        font-family: "Breuer Condensed Light Italic";
+        src: url('BreuerCondensed-LightItalic.eot');
+        src: url('BreuerCondensed-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('BreuerCondensed-LightItalic.svg#Breuer Condensed Light Italic') format('svg'),
+        url('BreuerCondensed-LightItalic.woff') format('woff'),
+        url('BreuerCondensed-LightItalic.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+}
+
+@font-face {
+        font-family: "Breuer Condensed Medium";
+        src: url('BreuerCondensed-Medium.eot');
+        src: url('BreuerCondensed-Medium.eot?#iefix') format('embedded-opentype'),
+        url('BreuerCondensed-Medium.svg#Breuer Condensed Medium') format('svg'),
+        url('BreuerCondensed-Medium.woff') format('woff'),
+        url('BreuerCondensed-Medium.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+}
+	
+@font-face {
+        font-family: "Breuer Condensed Light";
+        src: url('BreuerCondensed-Light.eot');
+        src: url('BreuerCondensed-Light.eot?#iefix') format('embedded-opentype'),
+        url('BreuerCondensed-Light.svg#Breuer Condensed Light') format('svg'),
+        url('BreuerCondensed-Light.woff') format('woff'),
+        url('BreuerCondensed-Light.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+}
+@font-face {
+        font-family: "Breuer Condensed Medium Italic";
+        src: url('BreuerCondensed-MediumItalic.eot');
+        src: url('BreuerCondensed-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('BreuerCondensed-MediumItalic.svg#Breuer Condensed Medium Italic') format('svg'),
+        url('BreuerCondensed-MediumItalic.woff') format('woff'),
+        url('BreuerCondensed-MediumItalic.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+}
+@font-face {
+        font-family: "Breuer Condensed Regular Italic";
+        src: url('BreuerCondensed-RegularItalic.eot');
+        src: url('BreuerCondensed-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('BreuerCondensed-RegularItalic.svg#Breuer Condensed Regular Italic') format('svg'),
+        url('BreuerCondensed-RegularItalic.woff') format('woff'),
+        url('BreuerCondensed-RegularItalic.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+}
+@font-face {
+        font-family: "Breuer Condensed Regular";
+        src: url('BreuerCondensed-Regular.eot');
+        src: url('BreuerCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BreuerCondensed-Regular.svg#Breuer Condensed Regular') format('svg'),
+        url('BreuerCondensed-Regular.woff') format('woff'),
+        url('BreuerCondensed-Regular.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+}
+@font-face {
+    font-family: 'breuer_condensedbold';
+    src: url('breuercondensed-bold-webfont.eot');
+    src: url('breuercondensed-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('breuercondensed-bold-webfont.woff') format('woff'),
+         url('breuercondensed-bold-webfont.ttf') format('truetype'),
+         url('breuercondensed-bold-webfont.svg#breuer_condensedbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+        font-family: "Breuer Condensed Bold Italic";
+        src: url('BreuerCondensed-BoldItalic.eot');
+        src: url('BreuerCondensed-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('BreuerCondensed-BoldItalic.svg#Breuer Condensed Bold Italic') format('svg'),
+        url('BreuerCondensed-BoldItalic.woff') format('woff'),
+        url('BreuerCondensed-BoldItalic.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+}
+

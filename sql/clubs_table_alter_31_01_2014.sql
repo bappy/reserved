@@ -1,0 +1,1 @@
+ALTER TABLE `clubs` ADD `tip_service_fee` VARCHAR( 150 ) NOT NULL AFTER `approve_auto_purchase`; 
