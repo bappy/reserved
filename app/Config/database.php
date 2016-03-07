@@ -62,13 +62,14 @@
 class DATABASE_CONFIG {
 
 	public $default = array(
-		'datasource' => 'Database/Mysql',
+		'datasource' => 'Database/Postgres',
 		'persistent' => false,
-		'host' => 'localhost',
-		'login' => 'root',
-		'password' => 'root',
-		'database' => 'reserved',
+		'host' => 'ec2-54-83-29-133.compute-1.amazonaws.com',
+		'login' => 'kjrxcwlbruoqno',
+		'password' => 'Mbc1gyRqTUfY6QYJuSiRkqK7pI',
+		'database' => 'd1l75bi4bhu0mc',
 		'prefix' => '',
+        'port' => '5432',
 		//'encoding' => 'utf8',
 	);
 
